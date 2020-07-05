@@ -25,7 +25,7 @@ setup(
     description='Terry toolkit',
     author='Terry Chan',
     author_email='napoler2008@gmail.com',
-    url='https://github.com/napoler/tkitMatch',
+    url='https://www.terrychan.org/tkitMatch/',
     # install_requires=read_requirements('requirements.txt'),  # 指定需要安装的依赖
     long_description=long_description,
     long_description_content_type="text/markdown",
