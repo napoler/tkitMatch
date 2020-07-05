@@ -1,6 +1,16 @@
 ## tkitMatch匹配函数合集
 
 
+### 安装
+```
+
+pip install tkitMatch
+```
+or
+```
+
+pip install tkitMatch  -i https://pypi.org/simple/
+```
 
 ```
 from tkitMatch import Match
